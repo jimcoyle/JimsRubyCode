@@ -16,6 +16,7 @@ end
 
 puts 'And let\'s hear it for C++!'
 puts '...'
+puts '...'
 
 
 3.times do
