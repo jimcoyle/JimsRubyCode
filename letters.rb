@@ -1,0 +1,5 @@
+puts 'Hello world!'
+puts ''
+puts 'Good-bye.'
+puts 'Mary had a "little" lamb'
+puts 'My name is "Jim"'
